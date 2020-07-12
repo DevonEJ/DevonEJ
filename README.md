@@ -1,9 +1,9 @@
 
 
-<!DOCTYPE html>
+{::options parse_block_html="true" /}
 <html>
    <head>
-      <title>Under Construction! :rocket: </title>
+      <title> Under Construction! :rocket: </title>
    </head>
    <body style="background-color:pink;">
       <p### Hi there 👋</p>
