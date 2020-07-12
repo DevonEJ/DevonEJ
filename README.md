@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:pink;">
+      <p### Hi there 👋</p>
+   </body>
+</html>
 
 <!--
 **DevonEJ/DevonEJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
