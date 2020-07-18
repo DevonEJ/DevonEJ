@@ -3,7 +3,9 @@
 
 View my GistLog microblog [here](https://gistlog.co/DevonEJ/)
 
-[Gist microblog: Putting type hints to work with Pyndantic](https://gist.github.com/DevonEJ/d466ef8c3effb80c71b7819f30dd0f06) :rocket:
+[Gist microblog: Putting type hints to work with Pyndantic](https://gist.github.com/DevonEJ/d466ef8c3effb80c71b7819f30dd0f06)
+[Gist microblog: Viewing Files in Binary] (https://gist.github.com/DevonEJ/df81def562ddf90fd83de875de3e5f9e) 
+:rocket:
 
 <!--
 **DevonEJ/DevonEJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
