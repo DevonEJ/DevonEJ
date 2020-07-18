@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 
+View my GistLog microblog [here](https://gistlog.co/DevonEJ/)
+
 [Gist microblog: Putting type hints to work with Pyndantic](https://gist.github.com/DevonEJ/d466ef8c3effb80c71b7819f30dd0f06) :rocket:
 
 <!--
